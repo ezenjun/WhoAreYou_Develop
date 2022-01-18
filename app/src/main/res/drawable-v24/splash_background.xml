@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="45"
+        android:endColor="@color/who_are_you_sig_hot_pink"
+        android:startColor="@color/who_are_you_sig_hot_purple"
+        android:type="linear" />
+    <!--어느 방향으로 그라데이션 효과를 넣을지 정할 수 있다-->
+    <!--시작 색-->
+    <!--가운데 색-->
+    <!--끝 색-->
+</shape>
