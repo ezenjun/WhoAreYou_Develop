@@ -3,26 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable-v24/splash_background.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable/main_btm_color_selector.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable/main_btm_home_selector.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable/main_btm_look_selector.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable/main_btm_my_selector.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable/main_btm_search_selector.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable-v24/look_fragment_circle_2.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable-v24/look_fragment_circle_3.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable/look_fragment_circle_1.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/drawable/look_speech_bubble.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_find_by_Image.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_find_by_camera.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_find_by_image.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_find_by_work.xml" value="0.14583333333333334" />
         <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_home.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_locker.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_look.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_search.xml" value="0.1" />
-        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/menu/bottom_nav_menu.xml" value="0.12" />
+        <entry key="..\:/Users/1229j/AndroidStudioProjects/WhoAreYou/app/src/main/res/layout/fragment_look.xml" value="0.14583333333333334" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/build/classes" />
-  </component>
-  <component name="ProjectType">
-    <option name="id" value="Android" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

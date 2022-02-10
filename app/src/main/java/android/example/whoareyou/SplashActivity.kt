@@ -14,10 +14,12 @@ class SplashActivity:AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivitySplashBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        supportActionBar?.hide()
         //Splash 화면 띄울 Handler
         Handler(Looper.getMainLooper()).postDelayed({
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
+            finish()
         }, 2000)
     }
 
